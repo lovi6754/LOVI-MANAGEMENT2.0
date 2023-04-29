@@ -6,7 +6,7 @@ import random
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
-from MukeshRobot import BOT_NAME, BOT_USERNAME, OWNER_ID, telethn
+from MukeshRobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT, telethn
 from MukeshRobot.events import register
 
 LOGO_LINKS = [
@@ -239,6 +239,58 @@ LOGO_LINKS = [
     "https://telegra.ph/file/258c02c002e89287d5d9b.jpg",
     "https://telegra.ph/file/d2abc99773a9d4954c2ba.jpg",
     "https://telegra.ph/file/9849b3940f063b065f4e3.jpg",
+    "https://telegra.ph/file/cdc66f16fbfb75971df2f.jpg",
+    "https://telegra.ph/file/5c575892b9f9534fd4f31.jpg",
+    "https://telegra.ph/file/78ffc400d4f3236b00e6b.jpg",
+    "https://telegra.ph/file/89d32e5bbf084a376c803.jpg",
+    "https://telegra.ph/file/b5d7dbcdce241013a061b.jpg",
+    "https://telegra.ph/file/c1d228bc1859213d258d7.jpg",
+    "https://telegra.ph/file/c6b0720b9f765809ea20a.jpg",
+    "https://telegra.ph/file/df7e648f2e68ff8e1a1e6.jpg",
+    "https://telegra.ph/file/5148f764cbc4700519909.jpg",
+    "https://telegra.ph/file/479e7f51c682dcd1f013f.jpg",
+    "https://telegra.ph/file/54a9eb0afe7a0f9c7c2f3.jpg",
+    "https://telegra.ph/file/73c52ee54567a61dac47a.jpg",
+    "https://telegra.ph/file/1427dbba81bd21b1bfc56.jpg",
+    "https://telegra.ph/file/1427dbba81bd21b1bfc56.jpg",
+    "https://telegra.ph/file/b0816374b470a5f9c66a6.jpg",
+    "https://telegra.ph/file/e10840ec9bea9bbfaff0e.jpg",
+    "https://telegra.ph/file/5935275d3ee09bc5a47b8.png",
+    "https://telegra.ph/file/c27e64f1e8ece187c8161.jpg",
+    "https://telegra.ph/file/055e9af8500ab92755358.jpg",
+    "https://telegra.ph/file/f18f71167f9318ea28571.jpg",
+    "https://telegra.ph/file/e2e26f252a5e25a1563c5.jpg",
+    "https://telegra.ph/file/47ccb13820d6fc54d872b.jpg",
+    "https://telegra.ph/file/f2ddccd28ceaeae90b2a3.jpg",
+    "https://telegra.ph/file/951c872f7f8d551995652.jpg",
+    "https://telegra.ph/file/8e8842f9fe207b8abd951.jpg",
+    "https://telegra.ph/file/8a14ecd2347ef88e81201.jpg",
+    "https://telegra.ph/file/b3869374ce0af9f26f92a.jpg",
+    "https://telegra.ph/file/8e17f8d3633a5696a1ccf.jpg",
+    "https://telegra.ph/file/b29d8956ae249773b0ec7.png",
+    "https://telegra.ph/file/d0eebe724b67d2ef7647e.jpg",
+    "https://telegra.ph/file/5780b3273162d2b9ba9ec.jpg",
+    "https://telegra.ph/file/e2d56d5dbb108ba7af20c.jpg",
+    "https://telegra.ph/file/1a4f50dd1e4ec9f04bfa1.jpg",
+    "https://telegra.ph/file/99b56305fa9c50767f574.jpg",
+    "https://telegra.ph/file/0859e0104c671bc9b6b7d.jpg",
+    "https://telegra.ph/file/b3af2980caf7040702171.jpg",
+    "https://telegra.ph/file/14be160df3b84c59e268e.jpg",
+    "https://telegra.ph/file/b958155e1e8e9ab9a0416.jpg",
+    "https://telegra.ph/file/24fff051c39b815e5078a.jpg",
+    "https://telegra.ph/file/258c02c002e89287d5d9b.jpg",
+    "https://telegra.ph/file/d2abc99773a9d4954c2ba.jpg",
+    "https://telegra.ph/file/9849b3940f063b065f4e3.jpg",
+    "https://te.legra.ph/file/8299576d36c340c487e7c.jpg",
+    "https://te.legra.ph/file/2e3147731ad86afc8737c.jpg",
+    "https://te.legra.ph/file/f6e2c7c333bffaf703a99.jpg",
+    "https://te.legra.ph/file/e2607ae07ca4ba7ddd496.jpg",
+    "https://te.legra.ph/file/c22142b275d5dc6583550.jpg",
+    "https://te.legra.ph/file/fbd65dd5ac923495de5fc.jpg",
+    "https://te.legra.ph/file/665d1090e021fd7569b40.jpg",
+    "https://te.legra.ph/file/93f0da70771ebc772801b.jpg",
+    "https://te.legra.ph/file/e764b43a9283fcd1246fa.jpg",
+    "https://te.legra.ph/file/e98c063d01e1515220c51.jpg",
 ]
 
 
@@ -247,7 +299,7 @@ async def lego(event):
     quew = event.pattern_match.group(1)
     if event.sender_id != OWNER_ID and not quew:
         await event.reply(
-            "ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !\nExample : `/logo <VIP BOY>`"
+            "`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <mukesh>`"
         )
         return
     pesan = await event.reply("**ᴄʀᴇᴀᴛɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ʟᴏɢᴏ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ sᴇᴄ​...**")
@@ -274,55 +326,25 @@ async def lego(event):
         draw.text(
             (x, y), text, font=font, fill="white", stroke_width=1, stroke_fill="black"
         )
-        fname = "mukesh.png"
+        fname = "fallen.png"
         img.save(fname, "png")
         await telethn.send_file(
             event.chat_id,
             file=fname,
-            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [{BOT_NAME}](https://t.me/{BOT_USERNAME})",
+            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ @{BOT_USERNAME}\n ♥︎ ᴘʀɪɴᴄᴇ ★[𓆩𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁𓆪](t.me/Your_godfather_xd)\n  ᴘʀɪɴᴄᴇ ʙᴏᴛ ᴢᴏɴᴇ★[ᴜᴘᴅᴀᴛᴇ](https://t.me/GUJU_CHATTING)",
         )
         await pesan.delete()
         if os.path.exists(fname):
             os.remove(fname)
     except Exception:
-        text = event.pattern_match.group(1)
-        randc = random.choice(LOGO_LINKS)
-        img = Image.open(io.BytesIO(requests.get(randc).content))
-        draw = ImageDraw.Draw(img)
-        image_widthz, image_heightz = img.size
-        fnt = glob.glob("./MukeshRobot/resources/fonts/*")
-        randf = random.choice(fnt)
-        font = ImageFont.truetype(randf, 120)
-        w, h = draw.textsize(text, font=font)
-        h += int(h * 0.21)
-        image_width, image_height = img.size
-        draw.text(
-            ((image_widthz - w) / 2, (image_heightz - h) / 2),
-            text,
-            font=font,
-            fill=(255, 255, 255),
-        )
-        x = (image_widthz - w) / 2
-        y = (image_heightz - h) / 2 + 6
-        draw.text(
-            (x, y), text, font=font, fill="white", stroke_width=1, stroke_fill="black"
-        )
-        fname = "mukesh.png"
-        img.save(fname, "png")
-        await telethn.send_file(
-            event.chat_id,
-            file=fname,
-            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [{BOT_NAME}](https://t.me/{BOT_USERNAME})",
-        )
-        await pesan.delete()
-        if os.path.exists(fname):
-            os.remove(fname)
+        await event.reply(f"ғʟᴏᴏᴅ ᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @{SUPPORT_CHAT}")
 
 
-__mod_name__ = "📍ʟᴏɢᴏ📍"
+__mod_name__ = "⍟ ʟᴏɢᴏ ⍟"
 
 __help__ = """
-I can create some beautiful and attractive logo for your profile pics.
+@{BOT_USERNAME} ᴄᴀɴ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ʙᴇᴀᴜᴛɪғᴜʟ ᴀɴᴅ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ʟᴏɢᴏ ғᴏʀ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄs.
+ 𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗯𝘆 ♥︎  @YOUR_GODFATHER_XD
 
-❍ /logo (Text) *:* Create a logo of your given text with random view.
+❍ /logo (Text) *:* ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢᴏ ᴏғ ʏᴏᴜʀ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴡɪᴛʜ ʀᴀɴᴅᴏᴍ ᴠɪᴇᴡ.
 """
