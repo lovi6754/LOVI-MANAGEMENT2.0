@@ -54,7 +54,7 @@ async def couple(_, message):
 
             couple_selection_message = f"""**Couple of the day :**
 
-{c1_mention} + {c2_mention} = 😘
+{c1_mention} + {c2_mention} = 💘
 __New couple of the day may be chosen at 12AM {tomorrow}__"""
             await pbot.send_message(message.chat.id, text=couple_selection_message)
             couple = {"c1_id": c1_id, "c2_id": c2_id}
@@ -67,7 +67,7 @@ __New couple of the day may be chosen at 12AM {tomorrow}__"""
             c2_name = (await pbot.get_users(c2_id)).first_name
             couple_selection_message = f"""Couple of the day :
 
-[{c1_name}](tg://openmessage?user_id={c1_id}) + [{c2_name}](tg://openmessage?user_id={c2_id}) = 😘
+[{c1_name}](tg://openmessage?user_id={c1_id}) + [{c2_name}](tg://openmessage?user_id={c2_id}) = 💘
 __New couple of the day can be chosen at 12AM {tomorrow}__"""
             await pbot.send_message(message.chat.id, text=couple_selection_message)
     except Exception as e:
@@ -80,7 +80,7 @@ Choose couples in your chat
 
  ❍ /couple *:* Choose 2 users and send their name as couples in your chat.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
 """
 
 __mod_name__ = "♨️Cᴏᴜᴘʟᴇ♨️"
