@@ -20,11 +20,11 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗚𝗢𝗗𝗙𝗔𝗧𝗛𝗘𝗥](https://t.me/YOUR_GODFATHER_XD)♨️
+ ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)♨️
   
 ╚═════ஜ۩۞۩ஜ════╝
 
-**[𝗦𝗔𝗡𝗔 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[⏤‌•𝐌𝐀𝐃𝐃𝐘  ᯤ 𝐌𝐔𝐒𝐈𝐂](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "📍ʀᴇᴘᴏ📍",
-                        url="https://github.com/mrtosumemon/Sana2Music",
+                        url="https://t.me/miss_u02",
                     ),
                 ]
             ]
