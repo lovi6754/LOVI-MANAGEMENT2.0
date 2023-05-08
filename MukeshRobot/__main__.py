@@ -1109,7 +1109,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://graph.org/file/ede6373450cdd0eb4db26.jpg",
+                animation="https://telegra.ph//file/cc696dc16a73cc616e045.jpg",
                 caption=f"""
 {dispatcher.bot.first_name}
 
