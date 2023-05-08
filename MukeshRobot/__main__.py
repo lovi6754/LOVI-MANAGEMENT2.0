@@ -94,7 +94,7 @@ PM_START_TEXT = """
 
 💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
 
-☆.................𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁..................☆ 
+☆..................🇬𝗛𝗢𝗦T..................☆ 
 """
 
 buttons = [
@@ -110,7 +110,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🌷𝐆𝐑𝐎𝐔𝐏🌷", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/ABOUT_GODFATHER"),
+        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/MISS_U02"),
     ],
     [
         InlineKeyboardButton(text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱", callback_data="mukesh_"),
@@ -526,7 +526,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈: [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -551,7 +551,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/Got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -585,7 +585,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -614,7 +614,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -637,7 +637,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇʀ ᴜsᴇʀs.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -690,7 +690,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /play : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆.............By » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -711,7 +711,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /activevideo : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ᴏɴ ʙᴏᴛ.
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/Your_godfather_xd)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -738,7 +738,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/Your_godfather_xd)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -774,7 +774,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /logs [ɴᴜᴍʙᴇʀ ᴏғ ʟɪɴᴇs] : ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʙᴏᴛ [ᴅᴇғᴀᴜʟᴛ ᴠᴀʟᴜᴇ ɪs 100 ʟɪɴᴇs]
 
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/Your_godfather_xd)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -801,7 +801,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/Your_godfather_xd)............☆""",
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
