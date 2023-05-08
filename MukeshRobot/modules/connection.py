@@ -400,7 +400,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴊᴜsᴛ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ sᴏᴍ
 *ᴀᴅᴍɪɴ ᴏɴʟʏ:*
  ❍ /ᴀʟʟᴏᴡᴄᴏɴɴᴇᴄᴛ <ʏᴇs/ɴᴏ>: ᴀʟʟᴏᴡ ᴀ ᴜsᴇʀ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀ ᴄʜᴀᴛ
  
- ☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
+ ☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆
 """
 
 CONNECT_CHAT_HANDLER = CommandHandler("connect", connect_chat, pass_args=True)
