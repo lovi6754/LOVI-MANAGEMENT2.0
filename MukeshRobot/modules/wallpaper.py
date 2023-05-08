@@ -52,8 +52,7 @@ async def wall(client, message):
 🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {message.from_user.mention}
 ❄ **ᴅᴏᴡɴʟᴏᴀᴅ :** `{murl}`
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
-"""
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆"""
         await m.delete()
         await client.send_photo(
             message.chat.id,
