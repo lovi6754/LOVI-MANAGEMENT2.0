@@ -460,7 +460,9 @@ __help__ = """
  ❍ /kang *:* ʀᴇᴘʟʏ ᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀᴅᴅ ɪᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴀᴄᴋ.
  ❍ /stickers *:* ғɪɴᴅ sᴛɪᴄᴋᴇʀs ғᴏʀ ɢɪᴠᴇɴ ᴛᴇʀᴍ ᴏɴ ᴄᴏᴍʙᴏᴛ sᴛɪᴄᴋᴇʀ ᴄᴀᴛᴀʟᴏɢᴜᴇ
 
-☆https://t.me/billa_x_gang
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/miss_u02)............☆
+
+"""
 __mod_name__ = "⚡ᴋᴀɴɢ⚡"
 STICKERID_HANDLER = DisableAbleCommandHandler("stickerid", stickerid)
 GETSTICKER_HANDLER = DisableAbleCommandHandler("getsticker", getsticker)
