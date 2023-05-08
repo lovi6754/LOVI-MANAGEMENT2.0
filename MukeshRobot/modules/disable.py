@@ -349,7 +349,7 @@ if is_module_loaded(FILENAME):
     ❍ /disablemodule <ᴍᴏᴅᴜʟᴇ ɴᴀᴍᴇ>*:* ᴅɪsᴀʙʟᴇ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴀᴛ ᴍᴏᴅᴜʟᴇ
     ❍ /listcmds*:* ʟɪsᴛ ᴀʟʟ ᴘᴏssɪʙʟᴇ ᴛᴏɢɢʟᴇᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆
     """
 
     __mod_name__ = " ♨️Dɪsᴀʙʟᴇ♨️"
