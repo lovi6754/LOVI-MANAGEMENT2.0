@@ -1,5 +1,5 @@
 {
-      "name": "𝄟❥𝗦𝗔𝗡𝗔🍷𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
+      "name": "⏤‌•𝐌𝐀𝐃𝐃𝐘 ꭙ𝐃𝐄𝐄𝐊𝐒𝐇𝐔 ᯤ 𝐌𝐔𝐒𝐈𝐂",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
       "logo": "https://graph.org/file/0c63865ece83ceb638e7b.jpg",
       "keywords": [
@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/mrtosumemon/SANA-MANAGEMENT2.0",
+   "repository": "https://telegra.ph//file/510af66387e0dfc4ebce1.jpg",
    "stack": "heroku-22",
    "addons": [
       {
@@ -65,7 +65,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "INCRICIBLE"
+         "value": "billa_x_gang"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
