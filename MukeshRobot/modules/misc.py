@@ -100,7 +100,7 @@ __help__ = """
  `/ᴄᴀsʜ 1 ᴜsᴅ ɪɴʀ`
 ᴏᴜᴛᴘᴜᴛ: `1.0 ᴜsᴅ = 75.505 ɪɴʀ`
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆
 """
 
 ECHO_HANDLER = DisableAbleCommandHandler("echo", echo, filters=Filters.group)
