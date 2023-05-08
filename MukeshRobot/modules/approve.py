@@ -210,7 +210,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴍɪɢʜᴛ ᴛʀᴜsᴛ ᴀ ᴜsᴇʀ ɴᴏ�
 ❍ /approved *:* ʟɪsᴛ ᴀʟʟ ᴀᴘᴘʀᴏᴠᴇᴅ ᴜsᴇʀs.
 ❍ /unapproveall *:* ᴜɴᴀᴘᴘʀᴏᴠᴇ *ᴀʟʟ* ᴜsᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ. ᴛʜɪs ᴄᴀɴɴᴏᴛ ʙᴇ ᴜɴᴅᴏɴᴇ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/YOUR_GODFATHER_XD)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve)
