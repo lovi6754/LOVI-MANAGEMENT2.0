@@ -228,7 +228,7 @@ __help__ = """
  ❍ /unignoreblue <ᴡᴏʀᴅ>*:* ʀᴇᴍᴏᴠᴇ ᴘʀᴇᴠᴇɴᴛ ᴀᴜᴛᴏ ᴄʟᴇᴀɴɪɴɢ ᴏғ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ
  ❍ /listblue *:* ʟɪsᴛ ᴄᴜʀʀᴇɴᴛʟʏ ᴡʜɪᴛᴇʟɪsᴛᴇᴅ ᴄᴏᴍᴍᴀɴᴅs
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆
 """
 
 SET_CLEAN_BLUE_TEXT_HANDLER = CommandHandler("cleanblue", set_blue_text_must_click)
