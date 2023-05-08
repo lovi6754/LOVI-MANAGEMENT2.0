@@ -461,7 +461,6 @@ __help__ = """
  ❍ /stickers *:* ғɪɴᴅ sᴛɪᴄᴋᴇʀs ғᴏʀ ɢɪᴠᴇɴ ᴛᴇʀᴍ ᴏɴ ᴄᴏᴍʙᴏᴛ sᴛɪᴄᴋᴇʀ ᴄᴀᴛᴀʟᴏɢᴜᴇ
 
 ☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/miss_u02)............☆
-
 """
 __mod_name__ = "⚡ᴋᴀɴɢ⚡"
 STICKERID_HANDLER = DisableAbleCommandHandler("stickerid", stickerid)
@@ -473,3 +472,4 @@ dispatcher.add_handler(STICKERS_HANDLER)
 dispatcher.add_handler(STICKERID_HANDLER)
 dispatcher.add_handler(GETSTICKER_HANDLER)
 dispatcher.add_handler(KANG_HANDLER)
+
