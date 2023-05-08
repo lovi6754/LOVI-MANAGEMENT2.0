@@ -554,7 +554,7 @@ __help__ = """
  ❍ /kayo <ᴀɴɪᴍᴇ>*:* sᴇᴀʀᴄʜ ᴀɴ ᴀɴɪᴍᴇ ᴏɴ ᴀɴɪᴍᴇᴋᴀʏᴏ.ᴄᴏᴍ
  ❍ /airing <ᴀɴɪᴍᴇ>*:* ʀᴇᴛᴜʀɴs ᴀɴɪᴍᴇ ᴀɪʀɪɴɢ ɪɴғᴏ.
 
-☆............𝙱𝚈 » [𝙶𝙾𝙳𝙵𝙰𝚃𝙷𝙴𝚁](https://t.me/your_godfather_xd)............☆
+☆............𝙱𝚈 » [ㅤ𝄟͢🦋⃟≛⃝ 𝐌𝐑 𝄟⃝🖤🇬𝗛𝗢𝗦𝗧࿇ ⃟☜](https://t.me/got_my_own_version)............☆
 """
 
 ANIME_HANDLER = DisableAbleCommandHandler("anime", anime)
