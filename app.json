@@ -1,5 +1,5 @@
 {
-      "name": "⏤‌•𝐌𝐀𝐃𝐃𝐘 ꭙ𝐃𝐄𝐄𝐊𝐒𝐇𝐔 ᯤ 𝐌𝐔𝐒𝐈𝐂",
+      "name": "⏤‌•𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
       "logo": "https://graph.org/file/0c63865ece83ceb638e7b.jpg",
       "keywords": [
@@ -55,17 +55,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5288547197"
+         "value": "5621275341"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/d3aad20ff45eef490e8d8.jpg"
+         "value": "https://te.legra.ph/file/02c987c38c627c241fdb1.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "billa_x_gang"
+         "value": "loveguru"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
