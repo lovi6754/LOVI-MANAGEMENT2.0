@@ -18,10 +18,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/fad8614e77b0c540fb320.jpg">
+  <img src="https://graph.org/file/38dd36d9d6c576b5fc411.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙇𝙊𝙑𝙀❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙇𝙊𝙑𝙀❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/lovely_musicbot)
 ━━━━━━━━━━━━━━━━━━━━
 
 
