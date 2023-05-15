@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**mrtosumemon/SANA-MANAGEMENT2.0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrtosumemon/LOVE-MANAGEMENT2.0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 
 <h2 align="center">
-    𝄟🌹𝙎𝘼𝙉𝘼 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
+    𝄟🌹𝙇𝙊𝙑𝙀 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
   <img src="https://graph.org/file/fad8614e77b0c540fb320.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙎𝘼𝙉𝘼❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙇𝙊𝙑𝙀❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
 ━━━━━━━━━━━━━━━━━━━━
 
 
