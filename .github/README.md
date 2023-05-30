@@ -7,7 +7,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/mrtosumemom/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Rishii7205/count.svg" />
 </p>
 
 
