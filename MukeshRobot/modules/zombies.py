@@ -7,7 +7,7 @@ from telethon.tl.types import ChannelParticipantsAdmins, ChatBannedRights
 
 from MukeshRobot import DEMONS, DEV_USERS, DRAGONS, OWNER_ID, telethn
 
-# =================== CONSTANT ===================
+# ==================== CONSTANT ====================
 
 BANNED_RIGHTS = ChatBannedRights(
     until_date=None,
