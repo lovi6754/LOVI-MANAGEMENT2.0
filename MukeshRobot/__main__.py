@@ -526,7 +526,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-☆............𝙱𝚈: [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈: [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -551,7 +551,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -585,7 +585,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -614,7 +614,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -637,7 +637,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇʀ ᴜsᴇʀs.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -667,7 +667,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /shayri , /love , /gf , /bf : 𝙶𝙴𝚃 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙾𝚁 𝙲𝙾𝚄𝙿𝙻𝙴𝚂
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -690,7 +690,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /play : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
 
-☆.............By » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆.............By » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -711,7 +711,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /activevideo : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ᴏɴ ʙᴏᴛ.
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -738,7 +738,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥🇬𝗛𝗢𝗦𝗧❤️‍🔥𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -774,7 +774,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /logs [ɴᴜᴍʙᴇʀ ᴏғ ʟɪɴᴇs] : ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʙᴏᴛ [ᴅᴇғᴀᴜʟᴛ ᴠᴀʟᴜᴇ ɪs 100 ʟɪɴᴇs]
 
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆
+☆............𝙱𝚈 » [ㅤ𓆩𓆩🇬𝗛𝗢𝗦𝗧𓆪𓆪](https://t.me/got_my_own_version)............☆
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -801,7 +801,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
 
-☆............𝙱𝚈 » [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)............☆""",
+☆............𝙱𝚈 » [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)............☆""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -1115,7 +1115,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [ㅤ𓆩𓆩❤️‍🔥ᶫᵒꪜeᴳᶹʳᶹ᭄❤️‍🔥𓆪𓆪](https://t.me/loveguruo)♨️
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [🇬𝗛𝗢𝗦𝗧](https://t.me/got_my_own_version)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
@@ -1160,7 +1160,7 @@ def main():
 
     dispatcher.add_error_handler(error_callback)
 
-    LOGGER.info("🌱𝐁𝐎𝐓🌷𝐒𝐓𝐀𝐑𝐓𝐄𝐃🌺𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 🇱𝐎𝐕𝐄𝐆𝐔𝐑𝐔♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER.info("🌱𝐁𝐎𝐓🌷𝐒𝐓𝐀𝐑𝐓𝐄𝐃🌺𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 🇬𝗛𝗢𝗦𝗧♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
     updater.start_polling(timeout=15, read_latency=4, clean=True)
 
     if len(argv) not in (1, 3, 4):
