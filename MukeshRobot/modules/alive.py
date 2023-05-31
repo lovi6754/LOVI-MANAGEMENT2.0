@@ -36,7 +36,7 @@ lol = "https://graph.org/file/ede6373450cdd0eb4db26.jpg"
 @pbot.on_message(filters.command("alive"))
 async def restart(client, m: Message):
     await m.delete()
-    accha = await m.reply("⚡")
+    accha = await m.reply("🖤")
     await asyncio.sleep(0.5)
     await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
     await asyncio.sleep(0.5)
@@ -54,7 +54,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[⏤‌•𝐌𝐀𝐃𝐃𝐘 ꭙ𝐃𝐄𝐄𝐊𝐒𝐇𝐔 ᯤ 𝐌𝐔𝐒𝐈𝐂](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[⏤‌•Criminal ꭙ 𝐌𝐔𝐒𝐈𝐂](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
    ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [🇬𝗛𝗢𝗦?](https://t.me/got_my_own_version)♨️
